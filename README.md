@@ -326,7 +326,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For support and questions:
 - Create an issue in the repository
-- Contact: [your-email@example.com]
+- Contact: [shuklashivani1001@gmail.com]
 
 ---
 
